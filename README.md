@@ -3,8 +3,8 @@
 
 TextSentinel is a web application that classifies messages as spam or legitimate using a deep learning model built with TensorFlow/Keras and deployed via Streamlit.
 
-- ⚙️ Trained in [textsentinel-model](https://github.com/sanjitmukesh/textsentinel-model)
-- 🚀 Deployed at [textsentinel.streamlit.app](https://textsentinel.streamlit.app/)
+- Trained in [textsentinel-model](https://github.com/sanjitmukesh/textsentinel-model) <br>
+- Deployed at [textsentinel.streamlit.app](https://textsentinel.streamlit.app/)
 
 <p align="center">
   <img width="850" alt="TextSentinel demo" src="https://github.com/user-attachments/assets/43cf0787-065a-42a5-a9fe-77a147488e9d" />
