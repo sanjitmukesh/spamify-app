@@ -1,13 +1,13 @@
-# TextSentinel  
+# Spamify  
 **Spam Detection Web App**
 
-TextSentinel is a web application that classifies messages as spam or legitimate using a deep learning model built with TensorFlow/Keras and deployed via Streamlit.
+Spamify is a web application that classifies messages as spam or legitimate using a deep learning model built with TensorFlow/Keras and deployed via Streamlit.
 
-- Trained in [textsentinel-model](https://github.com/sanjitmukesh/textsentinel-model) <br>
-- Deployed at [textsentinel.streamlit.app](https://textsentinel.streamlit.app/)
+- Trained in [spamify-model](https://github.com/sanjitmukesh/spamify-model) <br>
+- Deployed at [spamify.streamlit.app](https://spamify.streamlit.app/)
 
 <p align="center">
-  <img width="850" alt="TextSentinel demo" src="https://github.com/user-attachments/assets/43cf0787-065a-42a5-a9fe-77a147488e9d" />
+  <img width="886" height="529" alt="image" src="https://github.com/user-attachments/assets/c5435f37-2e3f-4282-95c7-0f5cfa528c93" />
 </p>
 <p align="center"><em>Example: identifying a spam message</em></p>
 
